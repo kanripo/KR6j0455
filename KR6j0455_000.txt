@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大威力烏樞瑟摩明王經
+#+DATE: 2015-08-30 20:32:50.429812
+#+PROPERTY: JUAN 0
