@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:50.124953
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:12
 #+TITLE: 大威力烏樞瑟摩明王經
 #+PROPERTY: CBETA_ID T21n1227
 #+PROPERTY: ID KR6j0455
