@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:50.156936
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:12
 #+TITLE: 大威力烏樞瑟摩明王經
 #+PROPERTY: CBETA_ID T21n1227
 #+PROPERTY: ID KR6j0455
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1227
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0455_T_000-0142b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0455_T_003-0151b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 大威力烏樞瑟摩明王經卷下¶
+大威力烏樞瑟摩明王經卷下¶
 ¶
 大唐北天竺國三藏阿質達霰譯¶
 
-:PROPERTIES:
-:head: 心密言事法
-:END:
-¶
+* 心密言事法¶
 
 復次求心密言成驗法。行者不拘淨穢。食與¶
 不食持滿十萬當得悉地。¶
@@ -389,7 +385,7 @@
 
 唵(一)薩望伽髯(二)摩訶帝髯(三)嚩日囉(二合)舍¶
 寧(四)嚩日囉(二合)播舍(五)麼那鉢尾蛇(六)薩嚩¶
-弩瑟鹻(二合七)娑擔(二合)娑擔(二合八)婆也婆也(九)𤙖¶
+弩瑟鹻(二合七)娑擔(二合)娑擔二合八婆也(二合八)婆也(九)𤙖¶
 (十)頗吒(十一)¶
 
 器仗密言曰。¶
